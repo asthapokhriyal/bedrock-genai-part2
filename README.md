@@ -1,0 +1,1 @@
+# bedrock-genai-part2
